@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "location": "Nairobi",
+      "email": "john@doe.com",
+      "username": "john"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "location": "Thika",
+      "email": "jane@doe.com",
+      "username": "jane"
+    },
+    {
+      "id": "3",
+      "name": "Vick Doe",
+      "location": "Nakuru",
+      "email": "vick@doe.com",
+      "username": "vick"
+    },
+    {
+      "id": "b5c0",
+      "username": "eslieh",
+      "name": "eslieh",
+      "email": "vick@gmail.com",
+      "location": "nairobi"
+    }
+  ]
+}
